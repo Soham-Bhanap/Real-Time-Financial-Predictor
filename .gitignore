@@ -1,0 +1,10 @@
+# Environments
+spark_env/
+__pycache__/
+
+# Large Binaries & Data
+spark-3.5.8-bin-hadoop3.tgz
+*.csv
+
+# OS Files
+.DS_Store
